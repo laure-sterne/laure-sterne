@@ -1,7 +1,7 @@
-#### 👋 Hi, I’m @laure-sterne, a student learner at Ada Tech School since October 2021.
-#### 👀 I’m interested in development, but python specifically!
-#### 🌱 I’m currently studying for being a software developer by learning a lot of programming languages like Javascript, Python, jQuery, React, PHP, MySQL Server, Lua, etc.
-#### 💞️ I’m looking to collaborate on an apprenticeship from June 2022 until June 2023.
+#### 👋 Hi, I’m @laure-sterne, a student learner at Ada Tech School from October 2021 to August 2023.
+#### 👀 I’m interested in development, but Go and Kotlin specifically!
+#### 🌱 I’m currently studying for being a software developer by learning a lot of programming languages like Go, PHP, Javascript, Python, jQuery, MySQL Server, etc.
+#### 💞️ I’m in apprenticeship at Pims as a web developer until August 2023.
 #### 📫 How to reach me ? 
 - On LinkedIn, here is my profile : https://www.linkedin.com/in/laure-sterne-3729a5144/
 - By email with laure.sterne@gmail.com
