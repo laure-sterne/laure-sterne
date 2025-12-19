@@ -1,11 +1,10 @@
 # 👋 Hi and nice to meet you!
 
-I’m @laure-sterne, a backend developer from France.
-Multipurpose and curious, I learn quickly and I appreciate expanding my knowledge! 
-Indeed, after a Bachelor's Degree in Publishing and a 3rd year in Digital Project Manager Bachelor, I moved into the developement because I like the creative side of this domain 😁 
-Thus, I wish to become **a fullstack developer** and ideally work in a company where I can be versatile and learn every day 🤩
+I’m @laure-sterne, a backend developer from France. <br>
+After switching to tech from a career in publishing, I found web development to be the perfect balance between creativity and technical requirements. Trained at Ada Tech School through intensive project-based learning (two-week sprints, multiple languages), I quickly developed my agility and adaptability—essential soft skills in constantly changing environments. <br>
+I wish to contribute to impactful projects where code quality and product culture come together!
 
-## Hard skills
+## 🧰 Hard skills
 
 ### Languages
 
@@ -58,14 +57,10 @@ Thus, I wish to become **a fullstack developer** and ideally work in a company w
 ![Linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white)
 
 ## 🌱 Work in progress
-I’m currently working on the backend of a mobile application where you can add all your favorite restaurants, perfect for food lovers! I'm using Express.js, Typescript, Postgres, Prisma and Supabase.
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+I’m currently working on the backend of a mobile application where you can add all your favorite restaurants, perfect for food lovers! I'm using **Express.js**, **Typescript**, **Postgres**, **Prisma** and **Supabase**.
 
 ## 📫 How to reach me ? 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laure-sterne/)
 
 - On [LinkedIn](https://www.linkedin.com/in/laure-sterne/)
 - By [Email](mailto:laure.sterne@gmail.com)
